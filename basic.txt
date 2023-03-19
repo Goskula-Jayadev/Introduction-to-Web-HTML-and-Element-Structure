@@ -1,0 +1,23 @@
+what is a file? => simply a page in book which has something written on it
+collection of data stored in a location on a computer that can be retrieved, modified, created and deleted.
+
+java -> intellij(mostly)
+webpage -> webpages
+
+
+VS code shortcuts:
+1.saving a file -> ctrl + save
+2.copy -> ctrl +c
+3.paste -> ctrl + v
+4.undo -> ctrl + z
+5.redo -> ctrl + y
+6.select a line -> ctrl + l
+7.select area between two cursors -> put your mouse on first placeholder + by keeping shift pressed select second placeholder
+8.select entire file -> ctrl + a
+9.multi cursor -> long press alt + left click on every cursor
+10.select multi duplicate-> ctrl + d 
+11.search for a file -> ctrl + p
+12.search for a file -> ctrl + f
+13.zoom -> in: ctrl + '+' out: ctrl + '-'
+14.get rid of horzontal scrolling as line exceeds display -> alt + z
+ 
